@@ -50,7 +50,7 @@ void L298N_can_root::motor2Yonu(int yon) {
         digitalWrite(_in3, LOW);
         digitalWrite(_in4, HIGH);
     }
-    else if (_motor1Yonu == 0) {
+    else if (_motor2Yonu == 0) {
         digitalWrite(_in1, LOW);
         digitalWrite(_in2, LOW);
 }
