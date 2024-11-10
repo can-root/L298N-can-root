@@ -7,6 +7,8 @@ Sıradaki iki pin ise motor 2 nin 1. ve 2. yönünü kontrol ediyor.Son iki pin 
 
 ![resim](https://github.com/user-attachments/assets/759689e8-9276-49f8-9afc-1c8a8b03b51e)
 
+![resim](https://github.com/user-attachments/assets/8db3d688-3bfe-4a13-9ac5-37622f4a22df)
+
 
 2-Motorları dörtlü bloklar halinde [motor1 in yönü, motor2 nin yönü, motor1 nin hızı ve motor2 nin hızı] kontrol ediyoruz.
 
