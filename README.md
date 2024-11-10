@@ -29,7 +29,9 @@ motorSurucu.durdur(); Her iki motoruda durdurur.
 motorSurucu.ileriGit(128);
 
 motorSurucu.geriGit(128); 
-                          Eğer basit bir araba modeli yapıldıysa bu şekilde yönlendirme işlemleride yapılabilir.
+
+                           Eğer basit bir araba modeli yapıldıysa bu şekilde yönlendirme işlemleride yapılabilir.
+                          
 motorSurucu.solaDon(128);
 
 motorSurucu.sagaDon(128);
