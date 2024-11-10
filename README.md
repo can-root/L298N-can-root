@@ -43,6 +43,10 @@ motorSurucu.sagaDon(128);
 ![resim](https://github.com/user-attachments/assets/6587ee66-41b8-4e68-b1c8-633e84907618)
 
 
+5-Şema
+
+![resim](https://github.com/user-attachments/assets/ba61bff0-8328-4465-a4ee-f6d8f7966d2c)
+
 
 
 
