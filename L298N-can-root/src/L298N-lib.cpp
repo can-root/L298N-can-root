@@ -82,7 +82,7 @@ void L298N_can_root::geriGit(int hiz) {
 void L298N_can_root::solaDon(int hiz) {
     motor1Yonu(0);
     motor2Yonu(1);
-    motor1Hiz(hiz);
+    motor1Hiz(0);
     motor2Hiz(hiz);
 }
 
@@ -90,7 +90,7 @@ void L298N_can_root::sagaDon(int hiz) {
     motor1Yonu(1);
     motor2Yonu(0);
     motor1Hiz(hiz);
-    motor2Hiz(hiz);
+    motor2Hiz(0);
 }
 
 void L298N_can_root::durdur() {
