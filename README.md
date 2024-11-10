@@ -13,6 +13,7 @@ Sıradaki iki pin ise motor 2 nin 1. ve 2. yönünü kontrol ediyor.Son iki pin 
 ![resim](https://github.com/user-attachments/assets/8fcf3153-aed3-4069-995f-7206d27a6cc1)
 
 3-Fonksiyonlar
+
 motorSurucu.motor1Yonu(1); gibi yön fonksiyonlarının içine 1 girilirse pozitif yönde -1 girilirse negatif yönde dönerler.
 
 motorSurucu.motor1Hiz(128); gibi hız fonksiyonlarında ise 0-255 arasında sayılar girilerek hızı PWM ile ayarlanır.
