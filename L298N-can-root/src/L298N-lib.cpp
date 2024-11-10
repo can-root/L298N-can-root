@@ -39,6 +39,7 @@ void L298N_can_root::motor1Yonu(int yon) {
     else if (_motor1Yonu == 0) {
         digitalWrite(_in1, LOW);
         digitalWrite(_in2, LOW);
+    }
 }
 
 void L298N_can_root::motor2Yonu(int yon) {
@@ -53,6 +54,7 @@ void L298N_can_root::motor2Yonu(int yon) {
     else if (_motor2Yonu == 0) {
         digitalWrite(_in1, LOW);
         digitalWrite(_in2, LOW);
+    }
 }
 
 void L298N_can_root::motor1Hiz(int hiz) {
